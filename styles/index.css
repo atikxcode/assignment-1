@@ -454,6 +454,28 @@ body{
 }
 
 
+.tenth-address{
+  display:flex;
+  justify-content: space-between;
+  
+}
+
+.last-section{
+  height:609px;
+  width:100%;
+  background: #070211;
+  color:white;
+  margin:auto;
+}
+
+.last-align{
+  display:flex;
+  flex-direction: column;
+}
+
+
+
+
 
 
 
