@@ -473,8 +473,44 @@ body{
   flex-direction: column;
 }
 
+.last-paragraph{
+  color: #FFF;
+  font-family: 'Inter';
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 40px; 
+  margin-top:120px;
+  margin-left:140px;
+  margin-bottom:50px;
+}
 
 
+.last-paragraph1{
+  color: #FFF;
+  font-family: 'Inter';
+  font-size: 24px;
+  font-weight: 500;
+  margin-right:290px;
+  
+ 
+}
+
+.last-paragraph2{
+  color: #FFF;
+  font-family: 'Inter';
+  font-size: 24px;
+  font-weight: 500;
+  margin-right:275px;
+  margin-bottom:50px;
+}
+
+.last-img1{
+  width: 24px;
+  height: 24px;
+  margin:auto;
+  padding:auto;
+
+}
 
 
 
